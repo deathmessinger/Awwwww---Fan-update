@@ -1,0 +1,13 @@
+## Interface: 100007
+
+## Title: Adibags_professions
+## Notes: Puts Profession Reagents in there own catagory and by expansion
+## Author: Deathmessinger
+## Version: 0.1.1
+## DefaultState: Enabled
+## X-License: MIT
+## Dependencies: AdiBags
+
+Database.lua
+Localization.lua
+Main.lua
