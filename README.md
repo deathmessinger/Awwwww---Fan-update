@@ -1,5 +1,5 @@
 # Adibags_professions
-AdiBags filter for professions sorted by expansion
+AdiBags filter for professions sorted by profession and expansion
 
 This is a plugin only! You can get the base bag addon over at [AdiAddons/AdiBags](https://github.com/AdiAddons/AdiBags) or [CurseForge.](https://www.curseforge.com/wow/addons/adibags)
 
