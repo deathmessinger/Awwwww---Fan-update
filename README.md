@@ -8,4 +8,7 @@ either by the profession or by the Expansion in your bags, bank and reagent bank
 
 It will also sort all reagents needed by each Profession either by profession or expansion.
 
-![image](https://user-images.githubusercontent.com/11321799/233867158-bc541e2d-9de7-45f5-98fd-c1219cdd5ec3.png)
+![image](https://user-images.githubusercontent.com/11321799/233867539-b817271d-7107-4ab1-84e2-56b8136ec8dd.png)
+
+![image](https://user-images.githubusercontent.com/11321799/233867544-f56ba4b6-0f66-46c0-8da9-d171d6adc2c3.png)
+
