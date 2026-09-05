@@ -1,8 +1,0 @@
-## Interface: 120100
-## Title: Awwwww!
-## Author: Seerah
-## Version: 2.0.2
-## Notes: Plays various sound effects when you die.
-## SavedVariables: AwwwwwDB
-
-awww.lua
